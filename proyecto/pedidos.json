@@ -1,0 +1,48 @@
+[
+{
+    "tamano": "Mediana",
+    "masa": "Normal",
+    "borde": "Orilla Queso",
+    "ingredientes": [
+        "Queso",
+        "Pepperoni",
+        "Jamon",
+        "Champiñones",
+        "Aceitunas"
+    ],
+    "comentarios": "ss"
+},
+{
+    "tamano": "Pequeña",
+    "masa": "Delgada",
+    "borde": "Tradicional",
+    "ingredientes": "Aceitunas",
+    "comentarios": "sss"
+},
+{
+    "tamano": "Pequeña",
+    "masa": "Delgada",
+    "borde": "Tradicional",
+    "ingredientes": "Pepperoni",
+    "comentarios": "ss"
+},
+{
+    "tamano": "Pequeña",
+    "masa": "Normal",
+    "borde": "Tradicional",
+    "ingredientes": "Jamon",
+    "comentarios": "aaa"
+},
+{
+    "tamano": "Mediana",
+    "masa": "Gruesa",
+    "borde": "Crunchy",
+    "ingredientes": [
+        "Queso",
+        "Pepperoni",
+        "Jamon",
+        "Champiñones"
+    ],
+    "comentarios": ""
+}
+]
